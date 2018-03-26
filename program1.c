@@ -16,3 +16,4 @@ public class calculator {
 
 }
 // อุ้ยยย เพิ่มคอมมเน้จ้า 
+//แก้ 1
